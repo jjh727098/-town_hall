@@ -120,9 +120,11 @@ header .header-nav .gnb{
 #top_popup.hidden{
     display: none;
 }
+.gnb-list {
+    display: flex;
+}
 .gnb-list .gnb-item{
-    float: left;
-    width: 16%;
+    flex: 1;
 }
 .gnb-list .gnb-item .gnb-link:first-child{
     padding-left: 0;
