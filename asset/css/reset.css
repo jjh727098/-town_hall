@@ -16,7 +16,6 @@ fieldset, input{
 }
 ul{list-style: none;}
 
-/* 세팅 */
 
 
 /* font */
@@ -43,4 +42,6 @@ body{
 
     letter-spacing: -0.5px;
     line-height: 1;
+
+	min-width: 1520px;
 }
