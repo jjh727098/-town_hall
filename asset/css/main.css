@@ -207,10 +207,10 @@
 }
 .weather-dust-pop  dl  dt,
 .weather-dust-pop  dl  dd{
-    padding-left: 0.5em;
+    padding-left: 8px;
     position: relative;
     line-height: 1.2;
-    margin-bottom: 0.5em;
+    margin-bottom: 8px;
     word-break: keep-all;
     font-size: 14px;
 }

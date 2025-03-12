@@ -6,7 +6,6 @@
 */
 header{
     position: fixed;
-    /* top: 0; */
     left: 0;
     right: 0;
     height: 110px;
@@ -256,17 +255,13 @@ header .header-nav .gnb{
 .gnb-sub .depth2 > li > a:hover{
     text-decoration: underline;
 }
-.gnb-sub-title-box{
-
-}
-
 .depth3{
     padding: 11px 10px;
     text-align: left;
 }
 .depth3 > li{
     margin: 0;
-    line-height: 1.4em;
+    line-height: 22.4px;
 }
 .depth3 > li > a{
     display: block;
@@ -360,13 +355,8 @@ header .header-nav .gnb{
     height: 230px;
     padding: 26px 30px;
 }
-.search-left .form-area{}
 .search-left .form-area .search-select{
     position: relative;
-}
-.form-area .search-select input{}
-.form-area .search-select .selected{
-   
 }
 .form-area .search-select .selected .select-open{
     display: block;
